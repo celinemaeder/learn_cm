@@ -1,2 +1,3 @@
 cd ~/Desktop
-pwd>list.txt
+pwd> list.txt
+ls>> list.txt
